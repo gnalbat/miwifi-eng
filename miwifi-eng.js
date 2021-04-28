@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         MiWifi-Eng
+// @name         miwifi-eng
 // @namespace    https://gnalb.at
 // @version      0.1
 // @description  Userscript for Xiaomi Router Web UI translation
