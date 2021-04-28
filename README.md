@@ -1,7 +1,7 @@
-# MiWifi-Eng
+# miwifi-eng
 ## Userscript for Xiaomi Router Web UI translation
 
-Tested _only_ on Firefox 88.0 and Greasemonkey 4.11
+Tested _only_ on Mi Router AX1800 and Greasemonkey 4.11 on Firefox 88.
 
 ### Installation
 
